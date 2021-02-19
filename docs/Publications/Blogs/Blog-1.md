@@ -2,6 +2,7 @@
 layout: default
 title: My first blog
 parent: Blogs
+grand_parent: Publications
 nav_order: 1
 ---
 
