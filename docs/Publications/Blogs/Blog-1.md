@@ -19,3 +19,6 @@ nav_order: 1
 # Test
 
 ## Test header
+
+
+<a href="../../data/blog1.xlsx" download>Download Blog 1 Data</a>
