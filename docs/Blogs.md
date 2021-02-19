@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: Blogs
+nav_order: 2
 ---
 
 # Test Header
@@ -10,6 +10,11 @@ nav_order: 1
 
 Test paragraph
 
-```{r}
+```r
 test_code <- "test"
+
+test_function <- function(parameter){
+    print("test)
+}
+
 ```
