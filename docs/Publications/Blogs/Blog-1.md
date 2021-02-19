@@ -25,6 +25,6 @@ test_script <- "test
 ```
 
 
-<a href="../../data/blog1.xlsx" download>Download Blog 1 Data</a>
+<a href="../../../data/blog1.xlsx" download>Download Blog 1 Data</a>
 
 <a href="https://github.com/labour-market-information-council/labour-market-information-council.github.io/blob/master/R/test.R">Fork this code</a>
