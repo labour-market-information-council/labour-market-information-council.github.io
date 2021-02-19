@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: About Us
+nav_order: 3
 ---
 
-LMIC Open
+This is the about us page. 
