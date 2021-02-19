@@ -66,5 +66,8 @@ search_enabled: true
 
 
 aux_links:
+  "Github":
+    - "https://github.com/labour-market-information-council/labour-market-information-council.github.io"
   "Our site":
     - "https://lmic-cimt.ca/"
+  
